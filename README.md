@@ -2,7 +2,7 @@
 
 # Portfolio Setup for Desktop and mobile version skeleton
 
-> This is my Portfolio page created as part of microverse requirement to utilize my skills learned to build a portfolio page to showcase my work. 
+> This is my Bootstrap Portfolio page created as part of microverse requirement to utilize my skills learned to build a portfolio page to showcase my work. 
 
 
 ## Built With
@@ -15,7 +15,7 @@
 
 ## Live Demo (Responsive Web Design accessible on Desktop and mobile)
 
-https://oshanedesign.github.io/My-Portfolio/ 
+https://oshanedesign.github.io/Bootstrap-Desktop-Portfolio/
 
 
 ## Getting Started
@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author2**
 
-- GitHub: [@jsug9](https://github.com/jsug9)
+- GitHub: [@mrjuda](https://github.com/mrjuda)
 
 
 ## 🤝 Contributing
