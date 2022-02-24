@@ -13,6 +13,11 @@ body {
   background-color: white;
 }
 
+.navBar a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
 .desktop-Nav {
   display: none;
 }
@@ -20,7 +25,7 @@ body {
 .my-logo {
   font-family: "Poppins", Arial, sans-serif;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 900;
   font-size: 18px;
   color: #6070ff;
   text-decoration: none;
@@ -490,6 +495,13 @@ textarea:focus {
   text-align: center;
   padding-top: 1rem;
 }
+
+.form-group {
+  margin-bottom: 0.8rem;
+}
+
+
+///* DESKTOP SIZE */
 
 @media only screen and (min-width: 992px) {
   .menuDropDown {
