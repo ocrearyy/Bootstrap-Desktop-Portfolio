@@ -500,8 +500,7 @@ textarea:focus {
   margin-bottom: 0.8rem;
 }
 
-
-///* DESKTOP SIZE */
+/* DESKTOP SIZE */
 
 @media only screen and (min-width: 992px) {
   .menuDropDown {
@@ -776,14 +775,14 @@ textarea:focus {
 
   html {
     scroll-behavior: smooth;
-  } 
-  
-  .navigation-link { 
+  }
+
+  .navigation-link {
     border: 2px solid transparent;
     text-decoration: none;
   }
-  
-  .navigation-link:hover { 
+
+  .navigation-link:hover {
     text-decoration: none;
     border-bottom: 2px solid #2234d3;
     transition: 0.5s ease;
@@ -792,7 +791,8 @@ textarea:focus {
   .form-control {
     margin: 2rem;
   }
-  .btn1 btn-outline-primary {
+
+  .btn1 {
     background-color: #fff;
   }
 }
